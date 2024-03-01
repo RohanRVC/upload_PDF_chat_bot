@@ -1,5 +1,3 @@
-# upload_PDF_chat_bot
-
 # QnA_from_PDF_BOT
 Link -:  https://uploadpdfchatbot-rvc.streamlit.app/
 ![image](https://github.com/RohanRVC/upload_PDF_chat_bot/assets/80825254/c5c54ec4-23df-4708-8855-efed5afc575e)
