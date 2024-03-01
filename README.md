@@ -22,6 +22,5 @@ Testing and Validation: The app is thoroughly tested, including testing in an in
 
 Documentation and Demonstration: A video demonstration (e.g., using Loom) is created to showcase how the app works. This includes recording the process of asking questions and receiving answers.
 
-video link-: https://drive.google.com/drive/folders/16FBhcjUjBTzcrTSGT2I5_GrOSnja7dnw?usp=drive_link
 
 Deployment: The web application is hosted online, making it accessible to users for interaction.
