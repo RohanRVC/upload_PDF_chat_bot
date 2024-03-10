@@ -15,14 +15,14 @@ with st.title('💖 LLM Chat BOt By RVC'):
     THe app is an LLM-powered chatbot built using
     ''')
 
-
+  
 
     add_vertical_space(5)
     st.write("Made by RVC from 💝")
 
 
 def main():
-    st.header("ChatBot PDF by Rohan 💬🤖")
+    st.header("ChatBot PDF by Rohan 💬🤖")  
     pdf=st.file_uploader('Upload Your PDF',type='pdf')
     if pdf is not None:
         pdf_reader=PdfReader(pdf)
