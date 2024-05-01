@@ -11,7 +11,7 @@ from langchain.vectorstores import FAISS
 
 with st.title('💖 LLM Chat BOt By RVC'):  
     st.markdown('''
-    ## About 
+    ## About  
     THe app is an LLM-powered chatbot built using
     ''') 
 
