@@ -27,7 +27,7 @@ def main():
     if pdf is not None: 
         pdf_reader=PdfReader(pdf) 
         st.write(pdf.name)
-        # st.write(pdf_reader)
+        # st.write(pdf_reader) 
         text=''
         for page in pdf_reader.pages:
             text+=page.extract_text()
