@@ -8,7 +8,7 @@ from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter               
 from langchain.embeddings.openai import OpenAIEmbeddings     
 from langchain.vectorstores import FAISS            
-     
+      
 with st.title('💖 LLM Chat BOt By RVC'):      
     st.markdown('''    
     ## About        
