@@ -29,7 +29,7 @@ def main():
         st.write(pdf.name)
         # st.write(pdf_reader) 
         text=''
-        for page in pdf_reader.pages:
+        for page in pdf_reader.pages: 
             text+=page.extract_text()
         
         text_splitter=RecursiveCharacterTextSplitter(
