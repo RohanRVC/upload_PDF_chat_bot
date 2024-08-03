@@ -22,7 +22,7 @@ with st.title('💖 LLM Chat BOt By RVC'):
           
    
 def main():    
-    st.header("ChatBot PDF by Rohan 💬🤖")    
+    st.header("ChatBot PDF by Rohan 💬🤖")     
     pdf=st.file_uploader('Upload Your PDF',type='pdf') 
     if pdf is not None:   
         pdf_reader=PdfReader(pdf)   
