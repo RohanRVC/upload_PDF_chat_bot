@@ -1,6 +1,6 @@
 import os   
 import streamlit as st  
-import pickle     
+import pickle      
 import google.generativeai as genai           
          
 from streamlit_extras.add_vertical_space import add_vertical_space              
