@@ -10,7 +10,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import FAISS                                    
                   
 with st.title('💖 LLM Chat BOt By RVC'):                  
-    st.markdown('''                
+    st.markdown('''                 
     ## About                         
     THe app is an LLM-powered chatbot built by using              
     ''')              
